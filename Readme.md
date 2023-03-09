@@ -1,4 +1,5 @@
 # k Shortest Paths
+[![DOI](https://zenodo.org/badge/605519771.svg)](https://zenodo.org/badge/latestdoi/605519771)
 
 A reimplementation of the code used for my research papers about parallel k shortest paths algorithms.
 
@@ -57,6 +58,11 @@ Please cite my PhD thesis when using this code in your reaserch project.
 
 ```
 TODO Bibtex
+```
+
+You can refer to this repository directly using the doi
+```
+DOI: 10.5281/zenodo.7713239
 ```
 
 ## License
