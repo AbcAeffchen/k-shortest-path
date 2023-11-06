@@ -54,10 +54,18 @@ In order to run the tests, you first need to generate some graphs to run the tes
 
 ## Cite
 
-Please cite my PhD thesis when using this code in your reaserch project.
+Please cite my [PhD thesis](https://doi.org/10.21248/gups.78731) when using this code in your reaserch project.
 
 ```
-TODO Bibtex
+@phdthesis{Schickedanz2023,
+  author      = {Alexander Schickedanz},
+  title       = {k-shortest path: average-case analysis and practical improvements},
+  type        = {doctoralthesis},
+  pages       = {108},
+  school      = {Universit{\"a}tsbibliothek Johann Christian Senckenberg},
+  doi         = {10.21248/gups.78731},
+  year        = {2023},
+}
 ```
 
 You can refer to this repository directly using the doi
