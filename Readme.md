@@ -62,7 +62,7 @@ Please cite my [PhD thesis](https://doi.org/10.21248/gups.78731) when using this
   title       = {k-shortest path: average-case analysis and practical improvements},
   type        = {doctoralthesis},
   pages       = {108},
-  school      = {Universit{\"a}tsbibliothek Johann Christian Senckenberg},
+  school      = {Goethe University Frankfurt, Germany},
   doi         = {10.21248/gups.78731},
   year        = {2023},
 }
